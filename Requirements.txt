@@ -1,0 +1,5 @@
+aiogram==3.31.0
+tonutils==2.5.1
+ton-core==0.7.1
+ecdsa==0.19.2
+pycryptodomex==3.24.2
